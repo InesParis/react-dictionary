@@ -6,10 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="app-logo">
-          <img src={logo} alt="logo" className="img-fluid" />
+          <img
+            src={logo}
+            alt="logo"
+            className="img-fluid"
+            style={{ width: "300px", height: "200px" }}
+          />
         </div>
-        <p>dictionary</p>
       </header>
+      <p>dictionary</p>
     </div>
   );
 }

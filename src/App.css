@@ -1,4 +1,9 @@
 .app-logo {
-  width: 50px; /* Set the desired width */
-  height: 50px;
+  display: block;
+}
+.App {
+  background-color: #fbf9fa;
+}
+.App-header {
+  margin: 30px 0;
 }
