@@ -1,9 +1,18 @@
 .app-logo {
   display: block;
 }
-.App {
-  background-color: #fbf9fa;
-}
+
 .App-header {
+  margin: 50px 50px 0;
+  display: block;
+}
+p {
+  text-align: center;
+}
+.App {
+  background: #fbf9fa;
+}
+.App-footer {
+  text-align: center;
   margin: 30px 0;
 }
