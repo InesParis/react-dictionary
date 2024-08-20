@@ -14,8 +14,15 @@ p {
 }
 .App {
   background: #fbf9fa;
+  padding: 60px 0 100px;
+  margin: 0 auto;
+  max-width: cover;
 }
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+.App main {
+  padding: 30px;
+  margin: 20px 0;
 }
