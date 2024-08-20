@@ -1,0 +1,15 @@
+h1 {
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 1;
+  color: #b63254;
+}
+
+h2 {
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+section {
+  background-color: #3c675b;
+}
