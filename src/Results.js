@@ -4,8 +4,8 @@ export default function Result(props) {
   if (props.results) {
     return (
       <div className="results">
-        <h1>{props.results.word}</h1>
-        <h2>{props.results.phonetic}</h2>
+        <h1>Word: {props.results.word}</h1>
+        <h2>Phonetics: /{props.results.phonetic}/</h2>
         {props.results.meanings.map(function (meaning, index) {
           return (
             <div key={index}>
