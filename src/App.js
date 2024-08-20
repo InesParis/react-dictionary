@@ -17,7 +17,12 @@ function App() {
           <Dictionary />
         </main>
       </div>
-      <footer className="App-footer">Created by Inés</footer>
+      <footer className="App-footer">
+        Coded by <a href="https://github.com/InesParis">Inés Paris</a> 🌻 hosted
+        on <a href="https://reactdictionarystudents.netlify.app/">Netlify</a>{" "}
+        and open source on{" "}
+        <a href="https://github.com/InesParis/react-dictionary">GitHub</a>
+      </footer>
     </div>
   );
 }
