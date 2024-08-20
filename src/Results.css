@@ -10,6 +10,6 @@ h2 {
   opacity: 0.5;
 }
 
-section {
-  background-color: #3c675b;
+section .mainword {
+  color: #3c675b;
 }

@@ -5,6 +5,7 @@ export default function Synonyms(props) {
     return (
       <ul className="Synonyms">
         <strong className="title"> Synonyms </strong>
+        {""}
         {props.synonyms.map(function (synonym, index) {
           return <li key={index}>{synonym}</li>;
         })}
